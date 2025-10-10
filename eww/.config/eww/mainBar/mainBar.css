@@ -1,0 +1,12 @@
+.mainBar {
+    background: none;
+    padding: 0px;
+}
+
+.mainBarWidget {
+    background: rgba(255, 255, 255, 0.09);
+    /* backdrop-filter: blur(6px); */
+    margin: 0px;
+    border-radius: 50px;
+    color: white;
+}
